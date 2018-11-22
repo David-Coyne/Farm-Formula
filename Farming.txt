@@ -6,3 +6,4 @@ Plant crop
 keep pests at bay
 Harvest crop
 Reinvest the dividend over time.
+look for ways to improve efficiency
